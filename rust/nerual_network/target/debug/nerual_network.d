@@ -1,0 +1,1 @@
+C:\Users\13018\Documents\CODE\neural\ networks\nnfs_walkthrough\rust\nerual_network\target\debug\nerual_network.exe: C:\Users\13018\Documents\CODE\neural\ networks\nnfs_walkthrough\rust\nerual_network\src\main.rs
